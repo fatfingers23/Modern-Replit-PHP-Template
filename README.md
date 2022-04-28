@@ -1,6 +1,12 @@
 # Modern PHP Template For Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/fatfingers23/Modern-Replit-PHP-Template.git)](https://repl.it/github/fatfingers23/Modern-Replit-PHP-Template.git)
 
 This is a super simple PHP template to help you bootstrap your PHP projects on [Repl.it](https://repl.it). It is a bare-bones template with a few examples to help you get going. 
+
+## Featuers
+* [intelephense](https://intelephense.com) as a language server for code intelligence inside of Replit.
+* [Composer](https://packagist.org) for package manager.
+* [Pest](https://pestphp.com) for unit tests.
 
 ## Layout
 * `app` - This is where the logic of your application lives. The files are divided into classes like any other OOP language.
