@@ -1,7 +1,7 @@
 # Modern PHP Template For Repl.it
 [![Run on Repl.it](https://repl.it/badge/github/fatfingers23/Modern-Replit-PHP-Template.git)](https://repl.it/github/fatfingers23/Modern-Replit-PHP-Template.git)
 
-This is a super simple PHP template to help you bootstrap your PHP projects on [Repl.it](https://repl.it). It is a bare-bones template with a few examples to help you get going. 
+This is a super simple PHP template to help you bootstrap your PHP projects on [Repl.it](https://repl.it). It is a bare-bones template with a few examples to help you get going. Can find the source code on [GitHub](https://github.com/fatfingers23/Modern-Replit-PHP-Template).
 
 ## Featuers
 * [intelephense](https://intelephense.com) as a language server for code intelligence inside of Replit.
