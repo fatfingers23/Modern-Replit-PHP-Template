@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^1.21"
+    },
+    "autoload": {
+        "psr-4": {
+           "App\\": "app/"
+        }
+    },
+    "scripts": {
+      "test": [
+          "@php vendor/bin/pest"
+      ]
+   }
+}
