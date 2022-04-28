@@ -1,6 +1,6 @@
 run = "php -S 0.0.0.0:8000 -t ./public"
 
-entrypoint = "index.php"
+entrypoint = "public/index.php"
 
 language = "php"
 

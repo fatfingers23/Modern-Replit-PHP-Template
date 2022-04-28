@@ -18,3 +18,7 @@ This is a super simple PHP template to help you bootstrap your PHP projects on [
 ## Composer scripts
 
 `composer test` - Run this in the shell to run your Pest tests.
+
+## Setup
+1. Open your Replit shell.
+2. Type in `composer install` and press `enter`. This installs the composer packages needed to make the application run.
